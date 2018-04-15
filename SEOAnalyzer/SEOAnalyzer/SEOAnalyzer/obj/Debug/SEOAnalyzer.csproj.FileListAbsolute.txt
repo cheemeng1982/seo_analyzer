@@ -1,0 +1,246 @@
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\ApplicationInsights.config
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\roslyn\csc.exe
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\roslyn\System.Collections.Immutable.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\roslyn\vbc.exe
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\roslyn\VBCSCompiler.exe
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\roslyn\VBCSCompiler.exe.config
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Tester.dll.config
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Tester.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Tester.pdb
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Antlr3.Runtime.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\EntityFramework.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\EntityFramework.SqlServer.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AI.Web.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AI.WindowsServer.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.ApplicationInsights.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Security.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Security.Google.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Web.Infrastructure.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Newtonsoft.Json.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Owin.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\System.Web.Helpers.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\System.Web.Mvc.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\System.Web.Optimization.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\System.Web.Razor.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\System.Web.WebPages.Deployment.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\System.Web.WebPages.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\System.Web.WebPages.Razor.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\WebGrease.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AI.Web.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AI.WindowsServer.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.ApplicationInsights.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\System.Web.Helpers.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\System.Web.Mvc.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\System.Web.Optimization.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\System.Web.Razor.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\System.Web.WebPages.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\System.Web.WebPages.Deployment.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\System.Web.WebPages.Razor.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Antlr3.Runtime.pdb
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Newtonsoft.Json.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\EntityFramework.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\EntityFramework.SqlServer.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Security.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Security.Google.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\obj\Debug\Tester.dll
+c:\users\cmmak\documents\visual studio 2015\Projects\Tester\Tester\obj\Debug\Tester.pdb
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\ApplicationInsights.config
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\roslyn\csc.exe
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\roslyn\vbc.exe
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\roslyn\VBCSCompiler.exe
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Tester.dll.config
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Tester.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Tester.pdb
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Antlr3.Runtime.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\EntityFramework.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\EntityFramework.SqlServer.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.Web.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Newtonsoft.Json.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Owin.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Helpers.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Mvc.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Optimization.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Razor.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\System.Web.WebPages.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\System.Web.WebPages.Razor.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\WebGrease.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.Web.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Helpers.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Mvc.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Optimization.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Razor.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\System.Web.WebPages.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\System.Web.WebPages.Razor.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Antlr3.Runtime.pdb
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Newtonsoft.Json.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\EntityFramework.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\EntityFramework.SqlServer.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\obj\Debug\SEOAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\obj\Debug\Tester.dll
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\obj\Debug\Tester.pdb
+C:\Users\cmmak\Documents\Visual Studio 2015\Projects\SEOAnalyzer\SEOAnalyzer\bin\HtmlAgilityPack.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\ApplicationInsights.config
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\roslyn\csc.exe
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\roslyn\vbc.exe
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\roslyn\VBCSCompiler.exe
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOAnalyzer.dll.config
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOAnalyzer.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\SEOAnalyzer.pdb
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Antlr3.Runtime.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\EntityFramework.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\EntityFramework.SqlServer.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\HtmlAgilityPack.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.Web.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Newtonsoft.Json.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Owin.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Helpers.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Mvc.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Optimization.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Razor.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.WebPages.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.WebPages.Razor.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\WebGrease.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.Web.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Helpers.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Mvc.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Optimization.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.Razor.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.WebPages.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\System.Web.WebPages.Razor.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Antlr3.Runtime.pdb
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Newtonsoft.Json.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\EntityFramework.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\EntityFramework.SqlServer.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\obj\Debug\SEOAnalyzer.dll
+C:\Users\eunice.chong\Desktop\Project\SEOAnalyzer\SEOAnalyzer\SEOAnalyzer\obj\Debug\SEOAnalyzer.pdb

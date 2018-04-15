@@ -1,0 +1,54 @@
+﻿.tags .label-tags.orange > span {
+    background-color: #f50;
+}
+
+.tags .label-tags.orange > span:after {
+    border-left-color: #f50;
+}
+
+.tags .label-tags.blue > span {
+    background-color: #05f;
+}
+
+.tags .label-tags.blue > span:after {
+    border-left-color: #05f;
+}
+
+.tags .label-tags.purple > span {
+    background-color: #f0f;
+}
+
+.tags .label-tags.purple > span:after {
+    border-left-color: #f0f;
+}
+
+.tags .label-tags.red > span {
+    background-color: #8C293E;
+}
+
+.tags .label-tags.red > span:after {
+    border-left-color: #8C293E;
+}
+
+.rating .ratingbar {
+    border: 1px solid #707070;
+    border-radius: 6px;
+}
+
+.rating .ratingbar > span {
+    display: block;
+    background-color: #60d060;
+    height: 8px;
+}
+
+.rating .ratingbar > span.red {
+    background: linear-gradient(to right, green,yellow,orange, red);
+}
+
+.rating .ratingbar > span.orange {
+    background: linear-gradient(to right, green,yellow,orange);
+}
+
+.rating .ratingbar > span{
+
+}

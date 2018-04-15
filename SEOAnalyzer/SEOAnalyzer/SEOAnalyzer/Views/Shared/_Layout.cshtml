@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @*<environment names="Development">
+        <link rel="stylesheet" href="~/Content/bootstrap.css" />
+        <link rel="stylesheet" href="~/Content/site.css" />
+        <link href="~/Content/themes/base/all.css" rel="stylesheet">
+    </environment>*@
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../Content/smartadmin-production-plugins.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+          
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <br/>
+        <br/>
+        <footer>
+            <p>&copy; @DateTime.Now.Year - SEO Analyzer</p>
+        </footer>
+    </div>
+    <environment names="Development">
+        <script src="~/Scripts/jquery-3.0.0.js"></script>
+        <script src="~/Scripts/bootstrap.js"></script>
+    </environment>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <!-- DataTables : plugin -->
+    @Scripts.Render("~/scripts/datatables")
+
+    <!-- jQGrid : plugin -->
+    @Scripts.Render("~/scripts/jq-grid")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
