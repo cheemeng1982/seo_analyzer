@@ -96,12 +96,7 @@ namespace SEOAnalyzer
                     wordList.Remove(word);
                 }
             }
-
-            while (wordList.Contains(" "))
-            {
-                wordList.Remove(" ");
-            }
-
+            
             return String.Join(" ", wordList.ToArray());
         }
 
@@ -109,6 +104,14 @@ namespace SEOAnalyzer
         {
             // Convert our input to lowercase
             inputString = inputString.ToLower();
+
+            // Characters to strip from the input and do it
+            string[] stripChars = { ";", ",", ".", "-", "_", "^", "(", ")", "[", "]",
+                        "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "\n", "\t", "\r" };
+            foreach (string character in stripChars)
+            {
+                inputString = inputString.Replace(character, "");
+            }
 
             // Split on spaces into a List of strings
             List<string> wordList = inputString.Split(' ').ToList();
@@ -119,15 +122,24 @@ namespace SEOAnalyzer
             {
                 if (!string.IsNullOrEmpty(word.Trim()))
                 {
-                    if (newRes.Any(w => w.Word == word.Trim()))
+                    // If the length of the word is at least three letters...
+                    if (word.Length >= 3)
                     {
-                        newRes.First(w => w.Word == word.Trim()).Frequency++;
-                    }
-                    else
-                    {
-                        newRes.Add(new WordResult() { Word = word.Trim(), Frequency = 1 });
+                        if (newRes.Any(w => w.Word == word.Trim()))
+                        {
+                            newRes.First(w => w.Word == word.Trim()).Frequency++;
+                        }
+                        else
+                        {
+                            newRes.Add(new WordResult() { Word = word.Trim(), Frequency = 1 });
+                        }
                     }
                 }
+            }
+
+            if(newRes.Count() > 0)
+            {
+                newRes = newRes.OrderByDescending(w => w.Frequency).ToList();
             }
 
             return newRes;
@@ -172,7 +184,7 @@ namespace SEOAnalyzer
             var extLinks = LinkFinder.Find(inputString);
             
             if(extLinks != null)
-            extLinks = extLinks.Where(i => i.Text != "/" && !string.IsNullOrEmpty(i.Text) && !string.IsNullOrEmpty(i.Href) && i.Href.Contains(localDomain) == false && (i.Href.Contains("http") || i.Href.Contains("https"))).ToList();
+            extLinks = extLinks.Where(i => !string.IsNullOrEmpty(i.Href) && (string.IsNullOrEmpty(localDomain) ? true : !i.Href.Contains(localDomain)) && (i.Href.Contains("http") || i.Href.Contains("https"))).ToList();
 
             return extLinks.ToList();
         }

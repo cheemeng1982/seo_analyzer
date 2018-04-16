@@ -247,7 +247,7 @@
             "contentType": 'application/json',
             "aaData": data, //JSON.parse(data),
             "columns": [
-                { "data": "Word" },
+                { "data": "Word", render: $.fn.dataTable.render.text() },
                 { "data": "Frequency" },
 
             ],
@@ -255,6 +255,7 @@
             "t" +
             "<'dt-toolbar-footer'<'col-sm-6 col-xs-12 hidden-xs'i><'col-sm-6 col-xs-12'p>>",
             "autoWidth": true,
+            "order": [[1, 'desc']],
             "preDrawCallback": function () {
                 // Initialize the responsive datatables helper once.
                 if (!responsiveHelper_dt_basic) {
@@ -300,7 +301,7 @@
             "contentType": 'application/json',
             "aaData": data, //JSON.parse(data),
             "columns": [
-                { "data": "Word" },
+                { "data": "Word", render: $.fn.dataTable.render.text() },
                 { "data": "Frequency" },
 
             ],
@@ -308,6 +309,7 @@
             "t" +
             "<'dt-toolbar-footer'<'col-sm-6 col-xs-12 hidden-xs'i><'col-sm-6 col-xs-12'p>>",
             "autoWidth": true,
+            "order": [[1, 'desc']],
             "preDrawCallback": function () {
                 // Initialize the responsive datatables helper once.
                 if (!responsiveHelper_dt_basic_2) {
@@ -353,7 +355,7 @@
             "contentType": 'application/json',
             "aaData": data, //JSON.parse(data),
             "columns": [
-                { "data": "Text" },
+                { "data": "Text", render: $.fn.dataTable.render.text() },
                 { "data": "Href" },
 
             ],
